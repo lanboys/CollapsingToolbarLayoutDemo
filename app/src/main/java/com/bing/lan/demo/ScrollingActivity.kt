@@ -17,7 +17,7 @@ class ScrollingActivity : AppCompatActivity() {
             //            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
 //                    .setAction("Action", null).show()
 
-            startActivity(Intent(this@ScrollingActivity, ScrollingActivity2::class.java))
+            startActivity(Intent(this@ScrollingActivity, ScrollingActivity3::class.java))
 
         }
 
